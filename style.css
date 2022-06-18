@@ -1,0 +1,18 @@
+p{
+  display: flex;
+  text-align: center;
+
+}
+
+ul{
+  justify-content: center;
+  background-color: teal;
+  color: red;
+  font-style: italic;
+}
+
+img{
+  padding-right:  200px;
+  display: flex;
+  image-resolution: from-image;
+}
